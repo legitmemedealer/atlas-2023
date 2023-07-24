@@ -1,0 +1,103 @@
+{
+	"id": -1,
+	"name": "Fernando Pessoa",
+	"description": "Fernando Pessoa was a Portuguese poet, writer, literary critic, translator, publisher, and philosopher, described as one of the most significant literary figures of the 20th century and one of the greatest poets in the Portuguese language.",
+	"links": {
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"206": [
+			[
+				345,
+				344
+			],
+			[
+				345,
+				339
+			],
+			[
+				348,
+				338
+			],
+			[
+				349,
+				337
+			],
+			[
+				350,
+				337
+			],
+			[
+				351,
+				336
+			],
+			[
+				350,
+				334
+			],
+			[
+				349,
+				332
+			],
+			[
+				347,
+				329
+			],
+			[
+				350,
+				325
+			],
+			[
+				352,
+				323
+			],
+			[
+				358,
+				323
+			],
+			[
+				360,
+				325
+			],
+			[
+				362,
+				327
+			],
+			[
+				363,
+				328
+			],
+			[
+				363,
+				329
+			],
+			[
+				358,
+				335
+			],
+			[
+				363,
+				339
+			],
+			[
+				364,
+				341
+			],
+			[
+				362,
+				344
+			]
+		]
+	},
+	"center": {
+		"206": [
+			355,
+			329
+		]
+	}
+}
