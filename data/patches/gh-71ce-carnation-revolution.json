@@ -1,0 +1,111 @@
+{
+	"id": -1,
+	"name": "Carnation Revolution",
+	"description": "The Carnation Revolution was a military coup by left-leaning military officers that overthrew the authoritarian Estado Novo regime on 25 April 1974 in Lisbon, producing major social, economic, territorial, demographic, and political changes in Portugal and its overseas colonies through the Processo Revolucionário Em Curso. It resulted in the Portuguese transition to democracy and the end of the Portuguese Colonial War. ",
+	"links": {
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"206": [
+			[
+				368,
+				345
+			],
+			[
+				366,
+				342
+			],
+			[
+				366,
+				341
+			],
+			[
+				369,
+				342
+			],
+			[
+				370,
+				339
+			],
+			[
+				368,
+				338
+			],
+			[
+				369,
+				337
+			],
+			[
+				369,
+				335
+			],
+			[
+				369,
+				331
+			],
+			[
+				365,
+				325
+			],
+			[
+				367,
+				323
+			],
+			[
+				370,
+				324
+			],
+			[
+				372,
+				323
+			],
+			[
+				375,
+				324
+			],
+			[
+				377,
+				327
+			],
+			[
+				373,
+				330
+			],
+			[
+				372,
+				333
+			],
+			[
+				375,
+				332
+			],
+			[
+				373,
+				336
+			],
+			[
+				372,
+				338
+			],
+			[
+				373,
+				341
+			],
+			[
+				373,
+				344
+			]
+		]
+	},
+	"center": {
+		"206": [
+			371,
+			327
+		]
+	}
+}
