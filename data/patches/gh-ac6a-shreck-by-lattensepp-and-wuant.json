@@ -1,0 +1,68 @@
+{
+	"id": 1844,
+	"name": "Shrek by Lattensepp and Wuant",
+	"description": "This Shrek was built by the streamer Lattensepp (Papaplatte) and Wuant after the British and other communities took over the Portuguese flag. Both of streamers reached a compromise where Shrek would collaborate with both countries, including their beers. Soon after, other countries joined in, making Shrek multicultural. \n\nThe Shrek was originally designed by Portuguese streamer Wuant.\n\nIn the picture are also other countries that have worked with immortalized by their flag:/n/nSpain, Switzerland, Ukraine, Austria and of course Germany and Portugal.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/papaplatte",
+			"https://en.wikipedia.org/wiki/Shrek_%E2%80%93_Der_tollk%C3%BChne_Held",
+			"https://www.twitch.tv/wuant"
+		],
+		"subreddit": [
+			"papaplatte",
+			"portugal"
+		],
+		"discord": [
+			"7eJUtFgD",
+			"tugaplace"
+		]
+	},
+	"path": {
+		"142-167": [
+			[
+				447,
+				-797
+			],
+			[
+				447,
+				-676
+			],
+			[
+				849,
+				-676
+			],
+			[
+				849,
+				-797
+			]
+		],
+		"196-204": [
+			[
+				203,
+				-797
+			],
+			[
+				595,
+				-797
+			],
+			[
+				596,
+				-676
+			],
+			[
+				203,
+				-676
+			]
+		]
+	},
+	"center": {
+		"142-167": [
+			648,
+			-736
+		],
+		"196-204": [
+			400,
+			-736
+		]
+	}
+}
