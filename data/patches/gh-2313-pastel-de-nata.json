@@ -1,0 +1,59 @@
+{
+	"id": -1,
+	"name": "Pastel de Nata",
+	"description": "Pastel de Belém is a Portuguese egg custard tart pastry, optionally dusted with cinnamon.",
+	"links": {
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"206": [
+			[
+				340,
+				352
+			],
+			[
+				339,
+				352
+			],
+			[
+				338,
+				351
+			],
+			[
+				337,
+				349
+			],
+			[
+				338,
+				347
+			],
+			[
+				343,
+				347
+			],
+			[
+				344,
+				349
+			],
+			[
+				344,
+				350
+			],
+			[
+				342,
+				352
+			]
+		]
+	},
+	"center": {
+		"206": [
+			341,
+			350
+		]
+	}
+}
