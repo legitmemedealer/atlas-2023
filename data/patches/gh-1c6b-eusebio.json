@@ -1,0 +1,55 @@
+{
+	"id": -1,
+	"name": "Eusébio",
+	"description": "Eusébio was a Portuguese footballer who played as a striker. He is considered one of the greatest players of all time",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Eus%C3%A9bio"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"204": [
+			[
+				468,
+				334
+			],
+			[
+				462,
+				298
+			],
+			[
+				467,
+				294
+			],
+			[
+				486,
+				295
+			],
+			[
+				492,
+				317
+			],
+			[
+				488,
+				342
+			],
+			[
+				461,
+				343
+			],
+			[
+				467,
+				332
+			]
+		]
+	},
+	"center": {
+		"204": [
+			479,
+			318
+		]
+	}
+}
