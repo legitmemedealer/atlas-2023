@@ -1,0 +1,90 @@
+{
+	"id": -1,
+	"name": "Super Bock",
+	"description": "Super Bock is a Portuguese beer brand from the Super Bock Group brewery which produces a range of beers under the same name. Established in 1927, Super Bock maintains a leading position in the market and it is among the favourite beer brands of the Portuguese. It is also the best-selling Portuguese beer in the world.",
+	"links": {
+		"website": [
+			"https://www.superbock.pt/"
+		],
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"206": [
+			[
+				347,
+				-741
+			],
+			[
+				324,
+				-748
+			],
+			[
+				314,
+				-752
+			],
+			[
+				311,
+				-752
+			],
+			[
+				308,
+				-689
+			],
+			[
+				299,
+				-690
+			],
+			[
+				304,
+				-706
+			],
+			[
+				305,
+				-722
+			],
+			[
+				304,
+				-744
+			],
+			[
+				305,
+				-756
+			],
+			[
+				315,
+				-757
+			],
+			[
+				335,
+				-756
+			],
+			[
+				345,
+				-754
+			],
+			[
+				355,
+				-751
+			],
+			[
+				354,
+				-744
+			],
+			[
+				349,
+				-741
+			]
+		]
+	},
+	"center": {
+		"206": [
+			346,
+			-748
+		]
+	}
+}
